@@ -1,0 +1,48 @@
+[33mcommit 50eb1a80ff4b85b3371e1cccb544a9ed37e9ccb6[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Dmitry <mancun07@yandex.ru>
+Date:   Sat Aug 20 23:19:10 2022 +0300
+
+    added text2
+
+[33mcommit 47266adaa83bc757ed67534f7e2961b6d4f92adb[m
+Author: Dmitry <mancun07@yandex.ru>
+Date:   Sat Aug 20 23:18:47 2022 +0300
+
+    added text1
+
+[33mcommit ea0e1255fdd982ffc5d8ae574e208fc1c86c5978[m
+Author: Dmitry <mancun07@yandex.ru>
+Date:   Fri Aug 19 21:59:16 2022 +0300
+
+    added file1.txt
+
+[33mcommit 5251ab682c3751eb5cfc9ea75bdf7c19fd8ec374[m
+Merge: 16f3bb2 dee926e
+Author: Dmitry <mancun07@yandex.ru>
+Date:   Fri Aug 19 21:50:29 2022 +0300
+
+    an update from FEATURE branch
+
+[33mcommit 16f3bb2a18d04168422de65ccf9ac80dcdd4b3f1[m
+Author: Dmitry <mancun07@yandex.ru>
+Date:   Fri Aug 19 21:47:31 2022 +0300
+
+    update of MAIN branch
+
+[33mcommit dee926e5ecb9222973b2160d2fbd313b37d6b45a[m[33m ([m[1;32mfeature[m[33m)[m
+Author: Dmitry <mancun07@yandex.ru>
+Date:   Fri Aug 19 21:46:25 2022 +0300
+
+    commit from FEATURE branch
+
+[33mcommit 4b74d9e5db510a8087dee7e59f2e3767865c25d5[m
+Author: Dmitry <mancun07@yandex.ru>
+Date:   Fri Aug 19 21:38:18 2022 +0300
+
+    added feature
+
+[33mcommit 97bf02f6ce7b2c60781448dd274378646f53da5f[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Dmitry <mancun07@yandex.ru>
+Date:   Fri Aug 19 21:26:32 2022 +0300
+
+    first commit
